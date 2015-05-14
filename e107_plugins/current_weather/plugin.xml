@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e107Plugin name="Current Weather" lan="LAN_WEATHER_MENU_NAME" version="1.0" date="2014-12-15" compatibility="2.0" installRequired="true" >
+	<author name="Roland Graf (OxigenO2)" url="www.oxigen.mablog.eu" />
+	<summary lan="LAN_WEATHER_MENU_SUMM">Displays city weather</summary>
+	<description lan="LAN_WEATHER_MENU_DESC">Displays city weather on the menu</description>
+	<keywords>
+		<word>weather</word>
+		<word>forecast</word>
+	</keywords>
+	<category>misc</category>
+	<copyright>2014 OxigenO2</copyright>
+	<adminLinks>
+		<link url="admin_config.php" description="" icon="images/icon_32.png" iconSmall="images/icon_16.png" primary="true" >LAN_CONFIGURE</link>
+	</adminLinks>
+	<pluginPrefs>
+		<pref name='current_weather_city'>Prague</pref>
+		<pref name='current_weather_unit'>metric</pref>
+		<pref name='current_weather_scheme'>color</pref>
+		<pref name='current_weather_deatils'>0</pref>
+		<pref name='current_weather_link'>1</pref>
+	</pluginPrefs>
+</e107Plugin>

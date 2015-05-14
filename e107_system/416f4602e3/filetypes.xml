@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e107Filetypes>
+	<class name="253" type="zip,gz,jpg,jpeg,png,gif,xml" maxupload="2M" />
+</e107Filetypes>

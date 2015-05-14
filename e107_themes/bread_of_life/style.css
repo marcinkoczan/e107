@@ -1,0 +1,134 @@
+/*
++---------------------------------------------------------------+
+|	e107 website system
+|
+|	©Steve Dunstan 2001-2005
+|	http://e107.org
+|	jalist@e107.org
+|
+|	Released under the terms and conditions of the
+|	GNU General Public License (http://gnu.org).
+|
+|
+|   Tema bread_of_life
+|   by Alf - http://www.e107works.org
+|   Released under the terms and conditions of the
+|   Creative Commons "Attribution-Noncommercial-Share Alike 3.0"
+|   http://creativecommons.org/licenses/by-nc-sa/3.0/
++---------------------------------------------------------------+
+*/
+
+
+/* Body e stile links */
+body {padding:0;margin:0;font-size:16px;font-family:"Trebuchet MS",Arial,sans-serif;color:#4C4C4B;text-align:left;background:#598797 url('images/bg_main.png') repeat-y center;}
+a img {border:none;text-decoration:none;}
+a:hover  img {border:none;}
+a {color: #6391A1;text-decoration: none;font-weight: normal;}
+a:hover {color:#000;text-decoration:underline;}
+p {line-height:24px;}
+img{vertical-align:middle}
+a:focus { outline: 0; }
+
+h1 {font-size:22px;margin:0px;letter-spacing:-1px;color:#A2A2A2;}/* usato caption principaliin testata*/
+h2 {font-size:28px;margin:0px;color:#000;}/* usato news e caption pagine*/
+h3 {font-size:24px;margin:0px;}/* usato caption menu*/
+
+.tbox{border:1px solid #E5E5E5; background:#f5f5f5;font-weight:bold;font-size:12px;}
+.helpbox {border:none;color:#000;font-size:12px;width:80%;background:#F4F4F4;}
+
+.nextprev {color:#5F5E5E;text-align:center;clear:both;height:18px;padding:6px;margin-left:5px;margin-top:5px;}
+.nextprev  a{padding:2px 4px;}
+.nextprev  a:hover{border:1px solid #e22882;padding:1px 3px;text-decoration:none;}
+
+.button{background:#598797;border:1px solid #DAD8D8;text-align:center;border-left:1px solid #3b6e22;border-top:1px solid #3b6e22;border-right:1px solid #3b6e22;border-bottom:1px solid #2C5A15;padding: 4px 8px;color:#fafafa;}
+
+.tboxsearch {width:150px;height:14px;background:#fff;color:#777777;font-weight:bold;padding:4px;border-right:1px solid #1d2a5b;border-bottom:1px solid #1d2a5b;border-left:1px solid #ccc;border-top:1px solid #ccc;}
+
+
+/* menu di navigazione */
+#barra_menu ul{list-style:none;padding:0;margin:0;}
+#barra_menu li { display:inline;}
+
+#barra_menu li a {float:left;height:35px;padding-left:18px;margin-left:10px;font:bold 150%/35px "Trebuchet MS",Arial,sans-serif;background:url('images/bottone.png') no-repeat top left;text-decoration:none;color:#C8C6C6}
+
+#barra_menu li a span {display: block;padding-right: 18px;background: url('images/bottone.png') no-repeat top right}
+
+#barra_menu li a:hover {background-position: bottom left;color: #f4f4f4;border:none;}	
+
+#barra_menu li a:hover  span {background-position: bottom right}	
+
+#barra_menu li a.onpage {background-position: bottom left;color: #fff;}	
+
+#barra_menu li a.onpage span{ background-position: bottom right}	
+
+#barra_menu li a:hover.onpage {cursor:default;}	
+
+
+/* elementi del layout */
+#contenitore_principale{width:960px;height:auto;overflow:hidden;margin:0 auto;border-left:2px solid #366070;border-right:2px solid #366070;background:#F4F4F4;}
+
+	#testata {width:960px;height:270px;background:url('images/testata.jpg') no-repeat center top;}
+		#nome_sito{width:925px;height:190px;padding:45px 0 0 35px;color:#F4F4F4;font-size:25px;}
+			#nome_sito h1{font-size:68px;color:#F4F4F4;}
+		#barra_menu{width:900px;height:35px;padding:0 30px;clear:both;}	
+		
+	#sub_contenitore{width:900px;height:auto;overflow:hidden;padding:30px;}
+		#contenuti{float:left;width:620px;height:auto;overflow:hidden;text-align:justify;}
+		#contenuti_custom{width:900px;height:auto;overflow:hidden;text-align:justify;}
+		
+			.caption{text-align:left;padding:0 0 10px 0;}
+			.padder{text-align:justify;}
+			
+			.menu3{clear:both;width:620px;height:auto;overflow:hidden;margin:15px auto;}
+			.padder3{text-align:center;}
+			
+			.menu4{clear:both;width:620px;height:auto;overflow:hidden;margin:15px auto;}
+			.padder4{text-align:center;}
+			
+		#blocco_dx{float:right;width:250px;height:auto;overflow:hidden;padding:10px 0 10px 30px}
+			.menu1{margin:15px auto;}
+			.caption1{border-bottom:3px solid #6391A1;color:#646464;}
+			.padder1{text-align:left;width:240px;padding:10px 5px;}
+			
+			.menu2{margin:15px auto;}
+			.caption2{border-bottom:3px solid #646464;color:#6391A1;}
+			.padder2{text-align:left;width:240px;padding:10px 5px;}
+			
+	#footer{width:840px;height:auto;overflow:hidden;padding:30px 30px 20px 30px;margin:30px auto 0 auto;border-top:1px solid #D9D8D8;color:#696969;}
+
+
+/* news	 */
+.news{width:620px;height:auto;overflow:hidden;margin:0 0 30px 0;}
+	.data_news{width:620px;height:20px;color:#BFBFBF;font-weight:bold;text-align:right;}
+	.titolo_news{width:620px;height:auto;overflow:hidden;font-size:26px;text-align:left;}
+		.titolo_news h2{font-size:34px;color:#457080;letter-spacing:-1px;}
+	.sommario_news{width:620px;height:auto;overflow:hidden;text-align:left;font-style:italic;color:#777776;padding:1px 0 10px 0;}
+	.corpo_news{width:620px;height:auto;overflow:hidden;padding:0 0 10px 0;}
+	.immagine_news{float:left;width:150px;padding:4px;border:1px solid #D9D8D8;background:#fafafa;margin:6px 8px 1px 0;}
+		.immagine_news img{width:150px;}
+	.accessori_news{width:600px;height:32px;padding:3px 10px 0 10px;background:#F0F0F0;border-bottom:1px solid #D9D8D8;}
+	
+/* lista new in cat */
+.new_list{width:550px;height:auto;overflow:hidden;padding:12px 35px;border-bottom:1px dashed #ccc;}
+
+
+/* commenti */
+.commenti{width:90%;height:auto;padding:12px;overflow:hidden;background:#eee;margin:0 0 8px 15px;border-bottom:1px solid #D9D8D8;}
+	.avatar_commenti {float:left;height:auto;overflow:hidden;text-align:center;padding:6px;margin:0 15px 12px 0;border:1px solid #D9D8D8;}
+		.avatar_commenti img{width:60px;}
+	.data_commenti{margin-top:15px;height:15px;color:#808080;width:100%;}
+
+/* Generiche tables */
+.indent{padding: 10px 10px 10px 10px; margin: 5px;font-size: 80%;font-family: Georgia, Times, Serif;color:#846E6A;font-style:italic;background:#F2FAFC url('images/sfondo_quote.png'); border: 1px solid #cccccc;}
+.avatar_forum{text-align:center;width:100%;height:auto;overflow:hidden;margin:6px auto 3px auto;} 
+	.avatar_forum img{width:120px;}
+.code_highlight{ padding:5px 8px 10px 47px; margin:5px; font-size: 13px; color: #000; background:url('images/code.gif') repeat-y; border:1px solid #ccc; text-align:left;}
+.spacer{padding:4px;}
+.fborder, .border{border-collapse: collapse;border-spacing: 0px;}
+.forumheader2, .forumheader3, .fcaption, .finfobar {	padding: 4px;border: 1px solid #eee;text-align:justify;}
+.forumheader2 a{font-size:16px;font-weight:bold}
+.finfobar {text-align:left;} 
+.forumheader3 img {max-width:580px;} 
+.forumheader, .forumheader4, .finfobar {	background:#DEE3E5;padding:2px 3px;font-size:18px;	font-weight:bold;border:1px solid #ccc;color:#527989;text-align:left;}
+.forumheader5 {cursor: pointer;}
+.fcaption, .forumheader5 {}	

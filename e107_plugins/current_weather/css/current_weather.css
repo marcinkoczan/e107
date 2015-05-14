@@ -1,0 +1,36 @@
+.wc_head h4 {
+  text-align: center;
+	color: #000;
+  font-size: 2em;
+}
+
+.wc_head p { 
+  text-align: center;
+	color: #000;
+  font-style: oblique;
+  font-size: 1.5em;
+}
+
+.wc_icons img {
+  display: table;
+  margin: 0 auto;
+	width: 120px;
+}      
+
+.wc_detail {
+	color: #000;
+	margin-left: 48px;
+  font-size: 1.25em;
+}
+
+.wc_detail span {
+	color: #000;
+	margin-left: 20px;
+  font-size: 0.7em;
+}
+
+.wc_nodata p {
+	color: #CC0033;
+  text-align: center;
+  font-size: 1.875em;
+}

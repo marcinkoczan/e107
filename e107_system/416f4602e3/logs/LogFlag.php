@@ -1,0 +1,3 @@
+<?php
+$logEnable=0;
+?>

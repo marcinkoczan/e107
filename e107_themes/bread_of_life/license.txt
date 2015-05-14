@@ -1,0 +1,56 @@
+e107wORks License 1.0
+
+[Italiano]
+
+e107wORks è un sito dedicato allo sviluppo di temi, plugin ed altre risorse per il CMS e107.
+
+L'utilizzo del materiale e dei contenuti distribuiti su e107works.org, implica la lettura e l'accettazione dei seguenti termini e condizioni. Lo Staff di e107wORks si riserva il diritto di modificare senza preavviso le seguenti indicazioni. Dette modifiche saranno effettive dal momento della loro pubblicazione su questo sito.
+
+Licenza e copyright.
+e107wORks raccoglie documenti, testi, idee e materiale protetto dal diritto d'autore. Ciascun componente (file, immagine, plugin, tema, etc..) o file di documentazione, è regolato dalla rispettiva licenza ed è copyright del rispettivo autore.
+
+I materiali originali realizzati dallo Staff di e107wORks (temi, plugin, etc...), salvo diverse indicazioni, sono rilasciati sotto Licenza Creative Commons (Attribuzione-Non commerciale-Condividi allo stesso modo 3.0)
+
+Modifiche ed integrazioni effettuate su opere di terze parti sono rilasciate secondo i termini delle singole licenze
+Nel caso di materiale freeware, e107wORks ha ottenuto il consenso richiedendo autorizzazione ai rispettivi autori ed è valida solo nei confronti di e107wORks e non degli utilizzatori.
+Pertanto, qualsiasi altra forma di redistribuzione e senza l'autorizzazione dei rispettivi autori potrebbe essere considerata illegale.
+
+Tutti i contenuti del sito e la documentazione, salvo diverse indicazioni, sono pubblicati sotto Licenza Creative Commons (Attribuzione-Non commerciale-Non opere derivate 3.0).
+
+E' autorizzata la redistribuzione dei materiali di e107wORks in forma modificata e non modificata a condizione che venga riconosciuta e specificata chiaramente la paternità dell'opera originale, LASCIANDO LE INDICAZIONI DI COPYRIGHT ORIGINALI INALTERATE COSÌ COME E DOVE SONO STATE RIPOSTE.
+
+Non è consentita la vendita dei materiali (in forma modificata e non modificata) contenenti il marchio e107wORks, se non previa autorizzazione scritta dell'autore via email
+
+Rinuncia alla garanzia e limitazione di responsabilità
+Tutti i materiali distribuiti da e107wORks sono distribuiti SENZA ALCUN TIPO DI GARANZIA, NE' ESPLICITA NE' IMPLICITA, incluse, ma non limitate a, le garanzie di COMMERCIABILITA' o di UTILIZZABILITA' PER UN PARTICOLARE SCOPO.
+
+In nessun caso i detentori del copyright, o qualunque altra parte che modifica e/o distribuisce materiale di e107works secondo le condizioni precedenti, possono essere ritenuti responsabili nei confronti del licenziatario per eventuali danni.
+
+
+[English]
+
+e107wORks is a site dedicated to the development of themes, plugins and other resources for the e107 CMS
+
+The use of materials and contents present on e107works.org is subject to the acceptance of this license agreement terms and conditions. e107wORks Staff reserves the right to modify, at any time, this License Agreement. These adjustments will be considered active just when published on this site.
+
+License and copyright
+e107wORks collects documents, ideas and material protected by author's rights. Every component (file, image, plugin, theme, etc...) and documentation file is subject to its own license and copyrighted by respective authors.
+
+Original materials produced by e107wORks Staff (themes, plugins, etc...), except where indicated, are released under Licenza Creative Commons (Attribution-Noncommercial-Share Alike 3.0)
+
+Modifications and integration made on the works of third parties, are released in the terms of their original licenses agreement.
+For freeware materials e107wORks has obtained the consent, asking permission of their owners, and is valid only in respect of e107wORks and not for users.
+Therefore, any other form of redistribution without the permission of their authors could be considered illegal.
+
+The documentation and all website contents, except where indicated, are released under Creative Commons License (Attribution-Noncommercial-No Derivative Works 3.0)
+
+Redistribution and spreading of e107wORks materials under modified and unmodified form, is authorized, provided that is acknowledged and clearly specified original work paternity, MUST INCLUDE ALL ORIGINAL COPYRIGHT INDICATIONS, UNCHANGED IN CONTENT AND POSITION
+
+Sale for profit of materials (under modified or unmodified form) containing e107wORks trademarks is NOT allowed, unless with written permission of the author by email
+
+Renunciation of warranty and limitation of liability
+All materials distributed by e107wORks are distributed WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, including but not limited to, warranties of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+In no event shall the copyright holders, or any other party change and/or distributes material e107wORks according to the above conditions, can be held liable to the licensee for damages.
+
+e107wORks Staff
